@@ -38,14 +38,14 @@
     "threads",
     "rakib"
   ],
-  "author": "NAYAN",
+  "author": "RAKIB",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/SYSTEM-ERROR-KING/rakib-media-downloader/issues"
   },
   "homepage": "https://github.com/SYSTEM-ERROR-KING/rakib-media-downloader#readme",
   "dependencies": {
-    "nayan-media-downloader": "^2.6.7"
+    "imon-media-downloader": "^1.0.5"
   },
   "devDependencies": {
     "@types/node": "^22.1.0",
